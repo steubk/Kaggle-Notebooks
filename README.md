@@ -1,6 +1,11 @@
 # Kaggle-Notebooks
 A selection of my [Kaggle Notebooks](https://www.kaggle.com/steubk)
 
+## Kaggle Grand/Masters Map
+[Kaggle Grand/Masters Map](https://www.kaggle.com/steubk/kaggle-grand-masters-map) 
+
+A geospatial visualization of Kaggle masters and grandmasters
+
 ## 2019 Data Science Bowl: 19th place solution 
 [DSB2019 - BS 26 (lgb/auc+xgb)](https://www.kaggle.com/steubk/dsb2019-bs-26-lgb-auc-xgb)
 
