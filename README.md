@@ -2,11 +2,11 @@
 A selection of my [Kaggle Notebooks](https://www.kaggle.com/steubk)
 
 ## A Stable Diffusion Experiment
-[A Stable Diffusion Experiment](https://www.kaggle.com/code/steubk/a-stable-diffusion-experiment/) 
+[The Famous Painters Cats:A Stable Diffusion Experiment](https://www.kaggle.com/code/steubk/a-stable-diffusion-experiment/) 
 
 Playing with stable diffusion, CNN, cats and artist
 
-##Jigsaw Rate Severity of Toxic Comments: 3rd place solution  
+## Jigsaw Rate Severity of Toxic Comments: 3rd place solution  
 [JRSoTC - A Detoxify Solution 0.81299 (3rd place)](https://www.kaggle.com/code/steubk/jrsotc-a-detoxify-solution-0-81299-3rd-place) 
 
 Solution's summary: https://www.kaggle.com/c/jigsaw-toxic-severity-rating/discussion/306235.
