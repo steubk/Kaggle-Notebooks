@@ -1,6 +1,17 @@
 # Kaggle-Notebooks
 A selection of my [Kaggle Notebooks](https://www.kaggle.com/steubk)
 
+## A Stable Diffusion Experiment
+[A Stable Diffusion Experiment](https://www.kaggle.com/code/steubk/a-stable-diffusion-experiment/) 
+
+Playing with stable diffusion, CNN, cats and artist
+
+##Jigsaw Rate Severity of Toxic Comments: 3rd place solution  
+[JRSoTC - A Detoxify Solution 0.81299 (3rd place)](https://www.kaggle.com/code/steubk/jrsotc-a-detoxify-solution-0-81299-3rd-place) 
+
+Solution's summary: https://www.kaggle.com/c/jigsaw-toxic-severity-rating/discussion/306235.
+
+
 ## Kaggle Grand/Masters Map
 [Kaggle Grand/Masters Map](https://www.kaggle.com/steubk/kaggle-grand-masters-map) 
 
