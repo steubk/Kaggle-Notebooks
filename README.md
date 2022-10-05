@@ -2,7 +2,7 @@
 A selection of my [Kaggle Notebooks](https://www.kaggle.com/steubk)
 
 ## A Stable Diffusion Experiment
-[The Famous Painters Cats:A Stable Diffusion Experiment](https://www.kaggle.com/code/steubk/a-stable-diffusion-experiment/) 
+[The Famous Painters Cats: A Stable Diffusion Experiment](https://www.kaggle.com/code/steubk/a-stable-diffusion-experiment/) 
 
 Playing with stable diffusion, CNN, cats and artist
 
