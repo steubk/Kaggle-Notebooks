@@ -1,6 +1,12 @@
 # Kaggle-Notebooks
 A selection of my [Kaggle Notebooks](https://www.kaggle.com/steubk)
 
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/steubk/competition)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/steubk/dataset)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/steubk/notebook)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/steubk/discussion)
+
+
 ## A Stable Diffusion Experiment
 [The Famous Painters Cats: A Stable Diffusion Experiment](https://www.kaggle.com/code/steubk/a-stable-diffusion-experiment/) 
 
